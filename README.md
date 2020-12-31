@@ -1,2 +1,2 @@
-# Neutrient-Chart-Model
+# Nutrient-Chart-Model
 It is a Classification type problem. The data set is basically a nutrient chart ,which shows some specific  measures(quantity) of various food items equivalent to its ratio in grams, the protiens it has , the fats ,fibers and carbs in it  and how these food items can be classified in to different categories on these bases. Have used KNN (K-Nearest Neighbor) ,SVM ( Support Vector Machine), Decision Tree and Naive Bayes. And checked accuracy and f1 score on all models
